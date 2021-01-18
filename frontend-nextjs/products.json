@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "The Complete Strapi Course",
+    "content": "The complete strapi course available on Udemy, coupon in description.",
+    "meta_description": "The Complete Strapi Course, the course you should be taking.",
+    "meta_title": "The Complete Strapi Course - Entreprenerd Store.",
+    "price": 9.99,
+    "slug": "the-complete-strapi-course",
+    "published_at": "2021-01-18T05:12:05.557Z",
+    "created_at": "2021-01-18T05:12:01.326Z",
+    "updated_at": "2021-01-18T05:12:05.606Z",
+    "image": {
+      "id": 1,
+      "name": "business-people-1572059_1920.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1280,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_business-people-1572059_1920.jpg",
+          "hash": "thumbnail_business_people_1572059_1920_72e52cf8da",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 234,
+          "height": 156,
+          "size": 10.26,
+          "path": null,
+          "url": "/uploads/thumbnail_business_people_1572059_1920_72e52cf8da.jpg"
+        },
+        "large": {
+          "name": "large_business-people-1572059_1920.jpg",
+          "hash": "large_business_people_1572059_1920_72e52cf8da",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 667,
+          "size": 103.8,
+          "path": null,
+          "url": "/uploads/large_business_people_1572059_1920_72e52cf8da.jpg"
+        },
+        "medium": {
+          "name": "medium_business-people-1572059_1920.jpg",
+          "hash": "medium_business_people_1572059_1920_72e52cf8da",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 500,
+          "size": 64.75,
+          "path": null,
+          "url": "/uploads/medium_business_people_1572059_1920_72e52cf8da.jpg"
+        },
+        "small": {
+          "name": "small_business-people-1572059_1920.jpg",
+          "hash": "small_business_people_1572059_1920_72e52cf8da",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 333,
+          "size": 34.59,
+          "path": null,
+          "url": "/uploads/small_business_people_1572059_1920_72e52cf8da.jpg"
+        }
+      },
+      "hash": "business_people_1572059_1920_72e52cf8da",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 280.22,
+      "url": "/uploads/business_people_1572059_1920_72e52cf8da.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-01-18T05:07:08.780Z",
+      "updated_at": "2021-01-18T05:07:08.806Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Next.js with Strapi Course",
+    "content": "This course in the works, may never be released. If you interested, check the link in description.",
+    "meta_description": "The Next.js course description",
+    "meta_title": "The Next.js with Strapi Course - Entreprenerd Course",
+    "price": 399,
+    "slug": "next-js-with-strapi-course",
+    "published_at": "2021-01-18T05:18:18.430Z",
+    "created_at": "2021-01-18T05:18:15.101Z",
+    "updated_at": "2021-01-18T05:18:18.477Z",
+    "image": {
+      "id": 2,
+      "name": "books-3322275_1920.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1280,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_books-3322275_1920.jpg",
+          "hash": "thumbnail_books_3322275_1920_68a7b80827",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 234,
+          "height": 156,
+          "size": 7.57,
+          "path": null,
+          "url": "/uploads/thumbnail_books_3322275_1920_68a7b80827.jpg"
+        },
+        "large": {
+          "name": "large_books-3322275_1920.jpg",
+          "hash": "large_books_3322275_1920_68a7b80827",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 667,
+          "size": 96.38,
+          "path": null,
+          "url": "/uploads/large_books_3322275_1920_68a7b80827.jpg"
+        },
+        "medium": {
+          "name": "medium_books-3322275_1920.jpg",
+          "hash": "medium_books_3322275_1920_68a7b80827",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 500,
+          "size": 55.81,
+          "path": null,
+          "url": "/uploads/medium_books_3322275_1920_68a7b80827.jpg"
+        },
+        "small": {
+          "name": "small_books-3322275_1920.jpg",
+          "hash": "small_books_3322275_1920_68a7b80827",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 333,
+          "size": 27.52,
+          "path": null,
+          "url": "/uploads/small_books_3322275_1920_68a7b80827.jpg"
+        }
+      },
+      "hash": "books_3322275_1920_68a7b80827",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 314.54,
+      "url": "/uploads/books_3322275_1920_68a7b80827.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-01-18T05:13:50.680Z",
+      "updated_at": "2021-01-18T05:13:50.704Z"
+    }
+  }
+]
